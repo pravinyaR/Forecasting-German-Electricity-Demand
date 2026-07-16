@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 d0b48b76c632c807f67c2a2a4a647a2073db2fc1 [STUDENT NAME] <student@example.com> 1784099845 +0000	commit (initial): German electricity demand forecasting: full pipeline, models and report
+d0b48b76c632c807f67c2a2a4a647a2073db2fc1 15613c42c105c0e244ea62b9e0e6faabc1cc1f14 [STUDENT NAME] <student@example.com> 1784099859 +0000	commit: Add GitHub publishing instructions
+15613c42c105c0e244ea62b9e0e6faabc1cc1f14 9b5bc4adee5f169a442c1dbaf9bb1188e187c5dd [STUDENT NAME] <student@example.com> 1784137231 +0000	commit: Report: Times New Roman, black text throughout, revised prose
+9b5bc4adee5f169a442c1dbaf9bb1188e187c5dd 3a97e363bde64fc1403af73e7a265f7255b53e73 [STUDENT NAME] <student@example.com> 1784139989 +0000	commit: References: Harvard style with bullets and italicised source titles; keep report source in repo
