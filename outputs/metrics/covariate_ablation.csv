@@ -1,0 +1,5 @@
+model,AIC,MAE,RMSE,MASE,Bias
+none (SARIMA),139.1,3.386,4.132,2.455,3.268
+temperature only,133.8,3.121,3.933,2.263,2.968
+holiday only,124.3,3.424,4.14,2.483,3.388
+temperature + holiday,129.5,2.867,3.649,2.078,2.729

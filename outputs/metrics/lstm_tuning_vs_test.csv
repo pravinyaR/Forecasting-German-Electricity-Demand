@@ -1,0 +1,3 @@
+config,val_loss,hourly_RMSE,weekly_RMSE,weekly_MASE,weekly_Bias
+"baseline (64u, 1 layer, drop 0.1, 8 ep)",0.0438,12.65,4.57,2.86,0.08
+"tuned (64u, 2 layers, drop 0.0, 10 ep)",0.0251,14.97,4.79,2.98,-1.02

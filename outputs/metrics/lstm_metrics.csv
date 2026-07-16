@@ -1,0 +1,4 @@
+model,MAE,RMSE,MASE,Bias
+lstm (hourly),12.4505,14.971,5.445,-1.0196
+lstm (weekly agg),4.0358,4.7856,2.9826,-1.0241
+seasonal_naive (weekly),2.8893,3.722,2.1354,1.7882

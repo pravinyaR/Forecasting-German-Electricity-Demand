@@ -1,0 +1,4 @@
+model,MAE,RMSE,MASE,Bias
+"SARIMA(1,1,6)(1,1,1,52) [full grid]",3.151,3.881,2.351,2.95
+"SARIMA(0,0,1)(1,1,1,52) [focused]",3.113,3.832,2.323,2.921
+seasonal_naive,2.315,3.003,1.727,1.736
